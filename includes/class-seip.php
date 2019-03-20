@@ -213,7 +213,7 @@ class Seip {
 					'<a href="<?php echo $options['cta_url'] ?>" class="bio_btn"><?php echo $options['cta_text_button'] ?></a><br><br>' +
 					'<a href="https://www.htag.com.au" target="_blank"><img src="<?php echo plugins_url('img/htag-property-market-forecasts.png', __FILE__); ?>" alt="Real Estate Market Forecasts"/></a></div>',
 				css: '#bio_ep {width: 520px; height: 260px;  color: #333; background-color: #fafafa; text-align: center;}' +
-					'.bio_btn {display: inline-block; margin: 18px 0 0 0; padding: 10px; color: #fff; font-size: 16px; font-weight: 600; background-color: <?php echo $options['popup_colour_scheme'] ?>; border: 1px solid <?php echo $options['popup_colour_scheme'] ?>; cursor: pointer; -webkit-appearance: none; -moz-appearance: none; border-radius: 0; text-decoration: none;}',
+					'.bio_btn {display: inline-block; margin: 1px 0 0 0; padding: 10px; color: #fff; font-size: 16px; font-weight: 600; background-color: <?php echo $options['popup_colour_scheme'] ?>; border: 1px solid <?php echo $options['popup_colour_scheme'] ?>; cursor: pointer; -webkit-appearance: none; -moz-appearance: none; border-radius: 0; text-decoration: none;}',
 				cookieExp: <?php echo $options['cookie_expiry'] ?>,
 				showOnDelay: <?php echo $options['time_delay_popup']==1?'true':'false' ?>, 
 				showOncePerSession: <?php echo $options['once_per_session']==1?'true':'false' ?>,
