@@ -4,25 +4,28 @@ Donate link: https://www.htag.com.au
 Tags: exit intent popup, timed delay popup
 Requires at least: 3.0.1
 Tested up to: 5.1.1
-Stable tag: 5.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Lighwheight exit intent / time delay popup that entices site visitors to take an action.
+Lighwheight exit intent / time delay popup that entices guest users to take an action on your site i.e. sign up.
 
 == Description ==
 
-Show a customisable CTA popup on Exit Intent i.e. when a guest user is about to abandon your site.
+Free plugin that shows a customisable CTA popup on Exit Intent i.e. when a guest user is about to abandon your site.
 
 FEATURE SUMMARY:
 
+- Free now and forever - no hidden costs, no trials, no third party signups, no limits on features
 - Exit Intent mode to show popup when user navigates close to window edge
 - Time Delay mode to show popup after a configurable time dalay
 - Configurable time delay setting (seconds)
 - Configurable cookie setting (days) to optionally show the popup only once a day or once in a few days
 - Customisable popup wording with multilingual support
-- Customisable colour scheme
 - Option to show the popup only once per session
+- Customisable colour scheme
+- Uses your theme's font styling so the look and feel is consistent with the rest of your site
+- Lightweight code has no impact on page load times
 
 == Installation ==
 
@@ -32,13 +35,17 @@ FEATURE SUMMARY:
 
 == Frequently Asked Questions ==
 
-= Is the popup shown for logged in users?  =
+= Is the popup shown to logged in users?  =
 
 No, the popup is only shown to guest users.
 
 = Does exit intent detection work on mobile devices? =
 
 No, exit intent mode will only work on desktop browsers. If majority of your site traffic is from mobile devices, use timed delay mode.
+
+= Will the plugin slow down my site? =
+
+No, the plugin loads its' resources in an an optimal way that does not impact page load times.
 
 == Screenshots ==
 
@@ -48,12 +55,15 @@ No, exit intent mode will only work on desktop browsers. If majority of your sit
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Initial Release
+
+= 1.0.1 =
+* Readme update
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.0.0 =
 * Initial Release
 
 == Plugin Options ==

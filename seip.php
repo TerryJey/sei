@@ -2,14 +2,14 @@
 
 /**
  * @link              https://www.htag.com.au
- * @since             1.0.0
+ * @since             1.0.1
  * @package           Seip
  *
  * @wordpress-plugin
  * Plugin Name:       Simple Exit Intent Popup
  * Plugin URI:        https://github.com/TerryJey/sei
  * Description:       Lighwheight exit intent / time delay popup that entices site visitors to take an action.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            HtAG Holdings
  * Author URI:        https://www.htag.com.au
  * License:           GPL-2.0+
@@ -25,10 +25,10 @@ if ( ! defined( 'WPINC' ) ) {
 
 /**
  * Currently plugin version.
- * Start at version 1.0.0 and use SemVer - https://semver.org
+ * Start at version 1.0.1 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'SEIP_VERSION', '1.0.0' );
+define( 'SEIP_VERSION', '1.0.1' );
 
 /**
  * The code that runs during plugin activation.
@@ -59,7 +59,7 @@ require plugin_dir_path( __FILE__ ) . 'includes/class-seip.php';
 
 /**
  *
- * @since    1.0.0
+ * @since    1.0.1
  */
 function run_seip() {
 
