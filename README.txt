@@ -1,10 +1,10 @@
 === Simple Exit Intent Popup ===
 Contributors: @oxwalor 
-Donate link: https://www.htag.com.au
+Donate link: https://www.htag.com.au/account
 Tags: exit intent popup, timed delay popup
 Requires at least: 3.0.1
-Tested up to: 5.1.1
-Stable tag: 1.0.1
+Tested up to: 5.2
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -58,13 +58,22 @@ No, the plugin loads its' resources in an an optimal way that does not impact pa
 = 1.0.0 =
 * Initial Release
 
-= 1.0.1 =
+= 1.0.2 =
 * Readme update
+
+= 1.0.2 =
+* Tested with Wordpress 5.2
 
 == Upgrade Notice ==
 
 = 1.0.0 =
 * Initial Release
+
+= 1.0.2 =
+* Readme update
+
+= 1.0.2 =
+* Compatibility with Wordpress 5.2
 
 == Plugin Options ==
 

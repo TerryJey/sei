@@ -4,7 +4,7 @@
  * Fired during plugin deactivation
  *
  * @link       https://www.htag.com.au
- * @since      1.0.1
+ * @since      1.0.2
  *
  * @package    Seip
  * @subpackage Seip/includes
@@ -15,7 +15,7 @@
  *
  * This class defines all code necessary to run during the plugin's deactivation.
  *
- * @since      1.0.1
+ * @since      1.0.2
  * @package    Seip
  * @subpackage Seip/includes
  * @author     HtAG Holdings <contact@htag.com.au>
@@ -27,7 +27,7 @@ class Seip_Deactivator {
 	 *
 	 * Long Description.
 	 *
-	 * @since    1.0.1
+	 * @since    1.0.2
 	 */
 	public static function deactivate() {
 

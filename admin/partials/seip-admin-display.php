@@ -6,7 +6,7 @@
  * This file is used to markup the admin-facing aspects of the plugin.
  *
  * @link       https://www.htag.com.au
- * @since      1.0.1
+ * @since      1.0.2
  *
  * @package    Seip
  * @subpackage Seip/admin/partials
